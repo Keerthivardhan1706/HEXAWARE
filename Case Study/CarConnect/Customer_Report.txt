@@ -1,0 +1,5 @@
+CustomerID,FirstName,LastName,Email,PhoneNumber,Address,RegistrationDate
+1,Keerthi,Vardhan,keerthi@gmail.com,9876543210,Hyderabad,2025-04-16 16:08:09.0
+3,Rajesh,P,rajesh@gmail.com,7093846952,hyderqas,2025-04-17 01:21:56.0
+5,ASD,FGH,KEERTHI.COM,98765432100,HYDERTAHD,2025-04-17 10:00:48.0
+7,PLOI,YUTR,KEERTHI89@GMAIL.COM,9090888123,TEL,2025-04-17 10:13:24.0

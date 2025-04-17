@@ -1,0 +1,3 @@
+VehicleID,Model,Make,Year,Color,RegistrationNumber,Availability,DailyRate
+1,Toyota Corolla,Toyota,2020,Blue,XYZ1234,Available,50.00
+2,Baleno,Suzuki,2018,White,TS08EF2907,Not Available,500.00
